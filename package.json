@@ -5,9 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/alireza-rou13/scrape-morsalat",
   "author": "AliReza Rouhani <alireza.rou13@gmail.com>",
-  "license": "MIT"
-
+  "license": "MIT",
   "dependencies": {
+    "mongoose": "^7.5.2",
     "puppeteer": "^21.3.1"
   }
 }
